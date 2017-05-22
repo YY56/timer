@@ -4,7 +4,7 @@ var R = 8;
 var MARGIN_TOP = 60;
 var MARGIN_LEFT = 30;
 
-const endTime = new Date(2014,9,2,12,0,0)
+const endTime = new Date(2016,9,2,12,0,0)
 // const endTime = new Date();
 // endTime.setTime(endTime.getTime()+3600*1000) 
 var curShowTimeSeconds = 0;
